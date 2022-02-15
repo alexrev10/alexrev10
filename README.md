@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexrev
+- 👋 Hi, I’m @alex_rev
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Science projects
